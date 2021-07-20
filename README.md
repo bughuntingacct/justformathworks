@@ -1,5 +1,3 @@
 # justformathworks
 
-'"><svg onload=alert(0)>
-  
- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[![View Just for testing on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96093-just-for-testing)
